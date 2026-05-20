@@ -60,7 +60,7 @@ The model successfully removes noise while preserving digit structure.
 
 ## 🖼️ Sample Output
 
-!(results/Sample_image.png)
+!/Sample_image.png)
 
 ```md
 Noisy Image → Clean Image → Reconstructed Image
